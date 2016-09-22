@@ -2,9 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    xmargin: 0;
-}
 
 #imagehome {
     width: 100vw;
@@ -218,7 +215,7 @@ article footer {
     margin-left: 0.5em;
 }
 
-#sign-in h1 {
+h1 {
     font-family: "Nexa Bold", sans-serif;
     color: hsl(147, 72.4%, 48.2%);
     font-size: 2em;
