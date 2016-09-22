@@ -91,7 +91,6 @@ h3 {
 
 .sort-items {
     display: flex;
-    align-items: center;
     background-color: whitesmoke;
     width: 100vw;
     margin-left: -0.5em;
@@ -266,31 +265,12 @@ h1 {
 /*-----------------------HOMEPAGE----------------------*/
 
 @media (min-width:600px) {
-    h3 {
-        font-family: "Nexa Bold", sans-serif;
-        color: hsl(344, 97.0%, 60.2%);
-        margin-bottom: 0.5em;
-        margin-top: 0.5em;
-        font-size: 1.7em;
-    }
+
     .sorteer-blok {
-        background-color: hsla(0, 100%, 100%, 0.78);
-        border-radius: 1em;
-        position: absolute;
-        text-align: center;
-        display: inline-block;
-        min-height: 9em;
-        top: 17vh;
-        right: 4vw;
 
 
     }
 
-    .sort-items {
-        display: flex;
-    justify-content: flex-end;
-
-    }
 
 
     #lang {
